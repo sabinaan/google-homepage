@@ -1,0 +1,1 @@
+This project is a copy of the google startpage. Practicing HTML and CSS.
